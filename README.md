@@ -13,7 +13,10 @@ Thermal station:
 * Thermal sensor DS18B20
 * 18650 Battery according to the energy needs of the project, in our case we use 02 units of 3200 mah
 * NODEMCU
-* RTC DS3231.
+* RTC DS3231
+* Push button
+* DC Jack for battery charge
+* USB cable for DC
 
 Circuit (translate in progress) 
 
