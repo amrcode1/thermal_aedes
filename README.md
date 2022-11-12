@@ -7,7 +7,7 @@ Thermal station:
 
 ![Thermal station](thermal_station.png)
 
-##Bill of Materials
+## Bill of Materials
 
 * Case shield: 10x10x7cm
 * Thermal sensor DS18B20
