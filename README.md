@@ -26,12 +26,17 @@ Thermal station:
 * PC or laptop
 * Silicone or soldier gun
 
+## Tutorials
 
-Circuit (translate in progress) 
+* Temperature Sensor DS18B20 with Arduino (Spanish) <a href="https://naylampmechatronics.com/blog/46_tutorial-sensor-digital-de-temperatura-ds18b20.html"> Link</a>
+* Temperature Sensor DS18B20 with CircuitPython (English) <a href="https://learn.adafruit.com/using-ds18b20-temperature-sensor-with-circuitpython"> Link</a>
+
+
+## Circuit (translate in progress) 
 
 ![circuit](circuito.png)
 
-Code:
+## Code
 modulo_temperatura_v05.ino
 
 ## License information 
