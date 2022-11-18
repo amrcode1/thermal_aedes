@@ -17,6 +17,15 @@ Thermal station:
 * Push button
 * DC Jack for battery charge
 * USB cable for DC
+* Battery holder
+
+## Tools
+
+* Protoboard/Breadboard
+* Jump wires
+* PC or laptop
+* Silicone or soldier gun
+
 
 Circuit (translate in progress) 
 
