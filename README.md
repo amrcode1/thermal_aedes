@@ -7,7 +7,8 @@ We developed a thermal data recording equipment through the Internet of Things (
 
 ![Thermal station](thermal_station.png)
 
-Inside thermal station:
+Inside thermal station: 
+
 ![Thermal station inside](thermal_sensor_inside_web.jpg)
 
 ## Bill of Materials
