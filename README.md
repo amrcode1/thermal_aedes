@@ -24,3 +24,11 @@ Circuit (translate in progress)
 
 Code:
 modulo_temperatura_v05.ino
+
+## License information 
+
+| **Type** | **License** |
+| --- | --- |
+| Hardware | MIT License|
+| Software | GPL-3.0 License |
+| Documentation | <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
