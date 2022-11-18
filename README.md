@@ -11,8 +11,9 @@ Thermal station:
 
 * Case shield: 10x10x7cm
 * Thermal sensor DS18B20
-* 18650 Battery according to the energy needs of the project, in our case we use 02 units of 3400 mah each
-* NODEMCU
+* 18650 Lithium Battery according to the energy needs of the project, in our case we use 02 units of 3400 mah each
+* TP4056 Battery Charger module 3.7v 1A
+* NODEMCU ESP8266 or WEMOS D1 MINI ESP8266
 * Real Time Clock DS3231
 * Push button
 * DC Jack for battery charge
