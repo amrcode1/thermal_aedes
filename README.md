@@ -11,9 +11,9 @@ Thermal station:
 
 * Case shield: 10x10x7cm
 * Thermal sensor DS18B20
-* 18650 Battery according to the energy needs of the project, in our case we use 02 units of 3200 mah
+* 18650 Battery according to the energy needs of the project, in our case we use 02 units of 3400 mah each
 * NODEMCU
-* RTC DS3231
+* Real Time Clock DS3231
 * Push button
 * DC Jack for battery charge
 * USB cable for DC
@@ -32,7 +32,7 @@ Thermal station:
 * Temperature Sensor DS18B20 with CircuitPython (English) <a href="https://learn.adafruit.com/using-ds18b20-temperature-sensor-with-circuitpython"> Link</a>
 
 
-## Circuit (translate in progress) 
+## Circuit
 
 ![circuit](circuito.png)
 
