@@ -11,6 +11,10 @@ Inside thermal station:
 
 ![Thermal station inside](thermal_sensor_inside_web.jpg)
 
+
+## Final report
+![Final reporte graph](ilo_final_report.png)
+
 ## Bill of Materials
 
 * Case shield: 10x10x7cm
